@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-vlc",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Valente Licona <isc.lcv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vlicona/random-str-msg-vlc/issues"
+  },
+  "homepage": "https://github.com/vlicona/random-str-msg-vlc#readme",
+  "bin": {
+    "random-str-msg-vlc": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
